@@ -1,5 +1,4 @@
-# GridGuard – Electricity Theft Investigation & Grid Anomaly Intelligence Platform
-<<<<<<< HEAD
+
 # GridGuard – Electricity Theft Investigation & Grid Anomaly Intelligence Platform
 
 ## 1. Project Overview
@@ -251,5 +250,4 @@ gridguard-complete/
 GridGuard provides an integrated platform for electricity anomaly monitoring and theft investigation. By combining PostgreSQL and MongoDB with a role-based web application, it supports structured data management, meter event tracking, and investigation workflows in one system.
 
 =======
-# electricity-theft-investigation
->>>>>>> origin/main
+
